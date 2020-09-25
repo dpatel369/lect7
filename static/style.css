@@ -1,8 +1,10 @@
 body {
     font-family: Arial;
     background-color: #0000FF;
+    padding-top:1em;
+    text-align:center;
 }
 ol {
-    font-size: 36pt;
+    font-size: 46pt;
     background: purple;
 }
